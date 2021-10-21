@@ -1,1 +1,8 @@
 This is Chapter 3
+
+
+While loops are perfect when you repeat an action until a certain condition occurs.
+
+Feedback
+
+By design, while loops run an unknown number of iterations until a certain condition (such as reaching a road sign) is fulfilled.
